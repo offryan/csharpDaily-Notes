@@ -1,0 +1,14 @@
+C:\devrepos\CSharp2024\bin\Debug\CSharp2024.exe.config
+C:\devrepos\CSharp2024\bin\Debug\CSharp2024.exe
+C:\devrepos\CSharp2024\bin\Debug\CSharp2024.pdb
+C:\devrepos\CSharp2024\obj\Debug\CSharp2024.csproj.AssemblyReference.cache
+C:\devrepos\CSharp2024\obj\Debug\CSharp2024.csproj.CoreCompileInputs.cache
+C:\devrepos\CSharp2024\obj\Debug\CSharp2024.exe
+C:\devrepos\CSharp2024\obj\Debug\CSharp2024.pdb
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\bin\Debug\CSharp2024.exe.config
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\bin\Debug\CSharp2024.exe
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\bin\Debug\CSharp2024.pdb
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\obj\Debug\CSharp2024.csproj.AssemblyReference.cache
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\obj\Debug\CSharp2024.csproj.CoreCompileInputs.cache
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\obj\Debug\CSharp2024.exe
+C:\devrepos\CSharp2024\Float_Doublo_Decimal\obj\Debug\CSharp2024.pdb
