@@ -60,7 +60,7 @@ namespace Enumeracoes
             Console.WriteLine("Nome:" + p1.nome);
             Console.WriteLine("Idade: " + p1.idade);
             Console.WriteLine("Altura: " + p1.altura);
-            Console.WriteLine();
+            Console.WriteLine(); 
             Console.WriteLine("Dados da 2º pessoa: ");
             Console.WriteLine("Nome: " + p2.nome);
             Console.WriteLine("Idade: " + p2.idade);
