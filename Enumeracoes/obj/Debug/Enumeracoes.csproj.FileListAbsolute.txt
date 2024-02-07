@@ -1,0 +1,7 @@
+C:\devrepos\CSharp2024\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\devrepos\CSharp2024\Enumeracoes\bin\Debug\Enumeracoes.exe
+C:\devrepos\CSharp2024\Enumeracoes\bin\Debug\Enumeracoes.pdb
+C:\devrepos\CSharp2024\Enumeracoes\obj\Debug\Enumeracoes.csproj.AssemblyReference.cache
+C:\devrepos\CSharp2024\Enumeracoes\obj\Debug\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\devrepos\CSharp2024\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\devrepos\CSharp2024\Enumeracoes\obj\Debug\Enumeracoes.pdb
