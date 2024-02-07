@@ -12,9 +12,9 @@ namespace CSharp2024
         {
             // Dar preferência para letras minúsculas, para usar menos memória
 
-            float real1 = 100.75f; // 32 bits, usar o "F" ou "f"
+            float real1 = 100.75f; // 32 bits, usar o "F" e/ou "f"
             double real2 = -125.99; // Aceita números negativos e positvos 64 bits
-            decimal real3 = 752548.453m; // usar o "M" ou "m" 128 bits 
+            decimal real3 = 752548.453m; // usar o "M" e/ou "m" 128 bits 
 
             Console.WriteLine("Valores " +
                 "Float: " + real1 + 
