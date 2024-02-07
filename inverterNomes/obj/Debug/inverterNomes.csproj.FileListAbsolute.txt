@@ -1,7 +1,0 @@
-C:\devrepos\inverterNomes\bin\Debug\inverterNomes.exe.config
-C:\devrepos\inverterNomes\bin\Debug\inverterNomes.exe
-C:\devrepos\inverterNomes\bin\Debug\inverterNomes.pdb
-C:\devrepos\inverterNomes\obj\Debug\inverterNomes.csproj.AssemblyReference.cache
-C:\devrepos\inverterNomes\obj\Debug\inverterNomes.csproj.CoreCompileInputs.cache
-C:\devrepos\inverterNomes\obj\Debug\inverterNomes.exe
-C:\devrepos\inverterNomes\obj\Debug\inverterNomes.pdb
