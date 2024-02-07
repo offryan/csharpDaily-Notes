@@ -1,0 +1,7 @@
+C:\devrepos\conversaoExplicita\bin\Debug\conversaoExplicita.exe.config
+C:\devrepos\conversaoExplicita\bin\Debug\conversaoExplicita.exe
+C:\devrepos\conversaoExplicita\bin\Debug\conversaoExplicita.pdb
+C:\devrepos\conversaoExplicita\obj\Debug\conversaoExplicita.csproj.AssemblyReference.cache
+C:\devrepos\conversaoExplicita\obj\Debug\conversaoExplicita.csproj.CoreCompileInputs.cache
+C:\devrepos\conversaoExplicita\obj\Debug\conversaoExplicita.exe
+C:\devrepos\conversaoExplicita\obj\Debug\conversaoExplicita.pdb
