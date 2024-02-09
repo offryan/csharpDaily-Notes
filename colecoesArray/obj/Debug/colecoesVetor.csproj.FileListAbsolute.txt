@@ -1,0 +1,7 @@
+C:\devrepos\colecoesArray\bin\Debug\colecoesArray.exe.config
+C:\devrepos\colecoesArray\bin\Debug\colecoesArray.exe
+C:\devrepos\colecoesArray\bin\Debug\colecoesArray.pdb
+C:\devrepos\colecoesArray\obj\Debug\colecoesVetor.csproj.AssemblyReference.cache
+C:\devrepos\colecoesArray\obj\Debug\colecoesVetor.csproj.CoreCompileInputs.cache
+C:\devrepos\colecoesArray\obj\Debug\colecoesArray.exe
+C:\devrepos\colecoesArray\obj\Debug\colecoesArray.pdb
