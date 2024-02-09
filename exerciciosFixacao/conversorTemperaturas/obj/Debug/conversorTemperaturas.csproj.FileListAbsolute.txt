@@ -1,0 +1,7 @@
+C:\devrepos\conversorTemperaturas\bin\Debug\conversorTemperaturas.exe.config
+C:\devrepos\conversorTemperaturas\bin\Debug\conversorTemperaturas.exe
+C:\devrepos\conversorTemperaturas\bin\Debug\conversorTemperaturas.pdb
+C:\devrepos\conversorTemperaturas\obj\Debug\conversorTemperaturas.csproj.AssemblyReference.cache
+C:\devrepos\conversorTemperaturas\obj\Debug\conversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\devrepos\conversorTemperaturas\obj\Debug\conversorTemperaturas.exe
+C:\devrepos\conversorTemperaturas\obj\Debug\conversorTemperaturas.pdb
