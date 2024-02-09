@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.exe.config
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.exe
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.pdb
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.exe
+C:\devrepos\exerciciosFixacao\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.pdb
