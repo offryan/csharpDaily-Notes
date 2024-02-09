@@ -1,0 +1,7 @@
+C:\devrepos\operadorConcatenacao\bin\Debug\operadorConcatenacao.exe.config
+C:\devrepos\operadorConcatenacao\bin\Debug\operadorConcatenacao.exe
+C:\devrepos\operadorConcatenacao\bin\Debug\operadorConcatenacao.pdb
+C:\devrepos\operadorConcatenacao\obj\Debug\operadorConcatenacao.csproj.AssemblyReference.cache
+C:\devrepos\operadorConcatenacao\obj\Debug\operadorConcatenacao.csproj.CoreCompileInputs.cache
+C:\devrepos\operadorConcatenacao\obj\Debug\operadorConcatenacao.exe
+C:\devrepos\operadorConcatenacao\obj\Debug\operadorConcatenacao.pdb
