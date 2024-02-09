@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace parse
+namespace conversaoParse
 {
     internal class Program
     {
