@@ -1,0 +1,7 @@
+C:\devrepos\colecoesMatriz\obj\Debug\colecoesMatriz.csproj.AssemblyReference.cache
+C:\devrepos\colecoesMatriz\obj\Debug\colecoesMatriz.csproj.CoreCompileInputs.cache
+C:\devrepos\colecoesMatriz\bin\Debug\colecoesMatriz.exe.config
+C:\devrepos\colecoesMatriz\bin\Debug\colecoesMatriz.exe
+C:\devrepos\colecoesMatriz\bin\Debug\colecoesMatriz.pdb
+C:\devrepos\colecoesMatriz\obj\Debug\colecoesMatriz.exe
+C:\devrepos\colecoesMatriz\obj\Debug\colecoesMatriz.pdb
