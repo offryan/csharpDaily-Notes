@@ -1,0 +1,14 @@
+C:\devrepos\convertParse\bin\Debug\convertParse.exe.config
+C:\devrepos\convertParse\bin\Debug\convertParse.exe
+C:\devrepos\convertParse\bin\Debug\convertParse.pdb
+C:\devrepos\convertParse\obj\Debug\parse.csproj.AssemblyReference.cache
+C:\devrepos\convertParse\obj\Debug\parse.csproj.CoreCompileInputs.cache
+C:\devrepos\convertParse\obj\Debug\convertParse.exe
+C:\devrepos\convertParse\obj\Debug\convertParse.pdb
+C:\devrepos\parse\bin\Debug\convertParse.exe.config
+C:\devrepos\parse\bin\Debug\convertParse.exe
+C:\devrepos\parse\bin\Debug\convertParse.pdb
+C:\devrepos\parse\obj\Debug\parse.csproj.AssemblyReference.cache
+C:\devrepos\parse\obj\Debug\parse.csproj.CoreCompileInputs.cache
+C:\devrepos\parse\obj\Debug\convertParse.exe
+C:\devrepos\parse\obj\Debug\convertParse.pdb
