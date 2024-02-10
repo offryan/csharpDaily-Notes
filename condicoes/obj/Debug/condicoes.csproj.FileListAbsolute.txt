@@ -1,0 +1,7 @@
+C:\devrepos\condicoes\bin\Debug\condicoes.exe.config
+C:\devrepos\condicoes\bin\Debug\condicoes.exe
+C:\devrepos\condicoes\bin\Debug\condicoes.pdb
+C:\devrepos\condicoes\obj\Debug\condicoes.csproj.AssemblyReference.cache
+C:\devrepos\condicoes\obj\Debug\condicoes.csproj.CoreCompileInputs.cache
+C:\devrepos\condicoes\obj\Debug\condicoes.exe
+C:\devrepos\condicoes\obj\Debug\condicoes.pdb
