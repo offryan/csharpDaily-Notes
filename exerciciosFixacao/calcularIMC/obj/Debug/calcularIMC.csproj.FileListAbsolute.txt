@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\calcularIMC\bin\Debug\calcularIMC.exe.config
+C:\devrepos\exerciciosFixacao\calcularIMC\bin\Debug\calcularIMC.exe
+C:\devrepos\exerciciosFixacao\calcularIMC\bin\Debug\calcularIMC.pdb
+C:\devrepos\exerciciosFixacao\calcularIMC\obj\Debug\calcularIMC.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\calcularIMC\obj\Debug\calcularIMC.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\calcularIMC\obj\Debug\calcularIMC.exe
+C:\devrepos\exerciciosFixacao\calcularIMC\obj\Debug\calcularIMC.pdb
