@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\declaracaoGoto\bin\Debug\declaracaoGoto.exe.config
+C:\devrepos\exerciciosFixacao\declaracaoGoto\bin\Debug\declaracaoGoto.exe
+C:\devrepos\exerciciosFixacao\declaracaoGoto\bin\Debug\declaracaoGoto.pdb
+C:\devrepos\exerciciosFixacao\declaracaoGoto\obj\Debug\declaracaoGoto.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\declaracaoGoto\obj\Debug\declaracaoGoto.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\declaracaoGoto\obj\Debug\declaracaoGoto.exe
+C:\devrepos\exerciciosFixacao\declaracaoGoto\obj\Debug\declaracaoGoto.pdb
