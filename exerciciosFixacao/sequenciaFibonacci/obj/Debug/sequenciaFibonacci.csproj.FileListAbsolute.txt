@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\bin\Debug\sequenciaFibonacci.exe.config
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\bin\Debug\sequenciaFibonacci.exe
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\bin\Debug\sequenciaFibonacci.pdb
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\obj\Debug\sequenciaFibonacci.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\obj\Debug\sequenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\obj\Debug\sequenciaFibonacci.exe
+C:\devrepos\exerciciosFixacao\sequenciaFibonacci\obj\Debug\sequenciaFibonacci.pdb
