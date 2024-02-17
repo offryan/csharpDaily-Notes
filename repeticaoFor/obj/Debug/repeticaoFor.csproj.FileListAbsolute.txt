@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\repeticaoFor\bin\Debug\repeticaoFor.exe.config
+C:\devrepos\exerciciosFixacao\repeticaoFor\bin\Debug\repeticaoFor.exe
+C:\devrepos\exerciciosFixacao\repeticaoFor\bin\Debug\repeticaoFor.pdb
+C:\devrepos\exerciciosFixacao\repeticaoFor\obj\Debug\repeticaoFor.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\repeticaoFor\obj\Debug\repeticaoFor.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\repeticaoFor\obj\Debug\repeticaoFor.exe
+C:\devrepos\exerciciosFixacao\repeticaoFor\obj\Debug\repeticaoFor.pdb
