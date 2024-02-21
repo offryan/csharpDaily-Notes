@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\metodosDasClasses\bin\Debug\metodosDasClasses.exe.config
+C:\devrepos\exerciciosFixacao\metodosDasClasses\bin\Debug\metodosDasClasses.exe
+C:\devrepos\exerciciosFixacao\metodosDasClasses\bin\Debug\metodosDasClasses.pdb
+C:\devrepos\exerciciosFixacao\metodosDasClasses\obj\Debug\metodosDasClasses.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\metodosDasClasses\obj\Debug\metodosDasClasses.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\metodosDasClasses\obj\Debug\metodosDasClasses.exe
+C:\devrepos\exerciciosFixacao\metodosDasClasses\obj\Debug\metodosDasClasses.pdb
