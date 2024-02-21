@@ -1,0 +1,7 @@
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\bin\Debug\Poo_classesObjetos.exe.config
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\bin\Debug\Poo_classesObjetos.exe
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\bin\Debug\Poo_classesObjetos.pdb
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\obj\Debug\Poo_classesObjetos.csproj.AssemblyReference.cache
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\obj\Debug\Poo_classesObjetos.csproj.CoreCompileInputs.cache
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\obj\Debug\Poo_classesObjetos.exe
+C:\devrepos\exerciciosFixacao\Poo_classesObjetos\obj\Debug\Poo_classesObjetos.pdb
